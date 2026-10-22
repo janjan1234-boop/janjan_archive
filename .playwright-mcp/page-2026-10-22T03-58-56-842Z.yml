@@ -1,0 +1,14 @@
+- main [ref=f3e2]:
+  - link [ref=f3e3] [cursor=pointer]:
+    - /url: https://chatgpt.com/
+    - img "ChatGPT" [ref=f3e4]
+  - generic [ref=f3e5]:
+    - heading "접속하려면 로그인하세요" [level=1] [ref=f3e7]
+    - generic [ref=f3e8]:
+      - link "ChatGPT로 계속" [ref=f3e9] [cursor=pointer]:
+        - /url: https://vivid-learning-log-2026.fondriver2048.chatgpt.site/signin-with-chatgpt?return_to=%2F&sites_gate_view_id=e5bc4a9e-297f-4094-8eba-5c388324cac2
+      - generic [ref=f3e11]:
+        - text: 이 사이트는 안전한 로그인을 위해 ChatGPT를 사용합니다. OpenAI의
+        - link "개인정보 보호정책" [ref=f3e12] [cursor=pointer]:
+          - /url: https://openai.com/policies/privacy-policy
+        - text: 을 확인할 수 있습니다.

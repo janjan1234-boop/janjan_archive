@@ -1,0 +1,209 @@
+- generic [ref=f2e2]:
+  - complementary [ref=f2e3]:
+    - link "J✳ janjan LEARNING ARCHIVE" [ref=f2e4] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f2e5]: J✳
+      - generic [ref=f2e6]:
+        - text: janjan
+        - generic [ref=f2e7]: LEARNING ARCHIVE
+    - generic [ref=f2e214]: MY SPACE / 2026
+    - navigation "주 메뉴" [ref=f2e8]:
+      - link "⌂ 대시보드" [ref=f2e9] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f2e10]: ⌂
+        - text: 대시보드
+      - link "▧ 프로젝트" [ref=f2e11] [cursor=pointer]:
+        - /url: "#projects"
+        - generic [ref=f2e12]: ▧
+        - text: 프로젝트
+      - link "☷ 학습 기록" [ref=f2e13] [cursor=pointer]:
+        - /url: "#journal"
+        - generic [ref=f2e14]: ☷
+        - text: 학습 기록
+      - link "◎ 6개월 로드맵" [ref=f2e215] [cursor=pointer]:
+        - /url: "#roadmap"
+        - generic [ref=f2e216]: ◎
+        - text: 6개월 로드맵
+      - link "✳ About" [ref=f2e217] [cursor=pointer]:
+        - /url: "#about"
+        - generic [ref=f2e218]: ✳
+        - text: About
+    - generic [ref=f2e219]:
+      - text: 계속 배우는 중
+      - generic [ref=f2e221]: ↗
+  - main [ref=f2e15]:
+    - generic [ref=f2e16]:
+      - generic [ref=f2e17]: ARCHIVE / OVERVIEW
+      - generic [ref=f2e222]: 6 MONTHS OF MAKING
+      - link "작업 둘러보기 ↗" [ref=f2e18] [cursor=pointer]:
+        - /url: "#projects"
+    - generic [ref=f2e19]:
+      - generic [ref=f2e20]:
+        - generic [ref=f2e21]:
+          - text: ✳ UI/UX × AI LEARNING LOG
+          - heading [level=1] [ref=f2e22]:
+            - text: 배우고, 만들고,
+            - emphasis [ref=f2e23]: 기록하는
+            - text: 6개월.
+          - paragraph [ref=f2e24]: 작은 발견부터 완성한 결과물까지.디자인과 AI를 배우며 쌓아가는 나의 아카이브.
+          - generic [ref=f2e25]:
+            - link "프로젝트 보기 ↗" [ref=f2e26] [cursor=pointer]:
+              - /url: "#projects"
+              - text: 프로젝트 보기
+              - generic [ref=f2e27]: ↗
+            - link "기록 읽기 →" [ref=f2e28] [cursor=pointer]:
+              - /url: "#journal"
+        - generic [aria-hidden] [ref=f2e29]:
+          - generic [ref=f2e32]:
+            - generic [ref=f2e33]: ● ● ●
+            - generic [ref=f2e34]: ✦
+          - generic [ref=f2e37]: ✳
+          - generic [ref=f2e38]: :)
+          - generic [ref=f2e39]: IDEA ✦ MAKE ✦ REPEAT
+      - generic [ref=f2e40]:
+        - generic [ref=f2e41]: 01 / AT A GLANCE
+        - generic [ref=f2e42]: 나의 배움, 한눈에 보기 ↓
+      - generic [ref=f2e43]:
+        - article [ref=f2e44]:
+          - generic [ref=f2e45]: HELLO, WORLD!
+          - generic [ref=f2e46]: ✷
+          - generic [ref=f2e47]:
+            - heading "안녕하세요, 만들며 배우는 사람입니다." [level=2] [ref=f2e48]: 안녕하세요,만들며 배우는사람입니다.
+            - paragraph [ref=f2e49]: 문제를 관찰하고, 아이디어를 실험하고,그 과정을 차곡차곡 기록합니다.
+          - generic [ref=f2e50]: A LITTLE ABOUT ME / 001
+        - article [ref=f2e51]:
+          - generic [ref=f2e52]: LEARNING JOURNEY ↗
+          - generic [ref=f2e53]: 06months
+          - heading "꾸준히 쌓는 배움" [level=2] [ref=f2e55]
+          - paragraph [ref=f2e56]: 리서치에서 프로토타입, AI 실험까지월별로 흐름을 따라가 보세요.
+          - link "로드맵 살펴보기 →" [ref=f2e57] [cursor=pointer]:
+            - /url: "#roadmap"
+            - text: 로드맵 살펴보기
+            - generic [ref=f2e58]: →
+        - article [ref=f2e59]:
+          - generic [ref=f2e60]: CURRENT FOCUS ↗
+          - generic [ref=f2e61]:
+            - generic [ref=f2e62]: UX
+            - generic [ref=f2e63]: AI
+            - generic [ref=f2e64]: ✦
+          - heading "사람을 이해하고 새로운 도구로 표현하기" [level=2] [ref=f2e65]: 사람을 이해하고새로운 도구로 표현하기
+          - paragraph [ref=f2e66]: UI/UX DESIGN · GENERATIVE AI
+      - generic [ref=f2e67]:
+        - generic [ref=f2e68]:
+          - generic [ref=f2e69]:
+            - text: 02 / SELECTED WORK
+            - heading "프로젝트 ✳" [level=2] [ref=f2e70]
+            - paragraph [ref=f2e71]: 배운 것을 직접 만들어 본 기록입니다.
+          - generic [ref=f2e72]: 아래 항목은 레이아웃 예시입니다
+        - generic [ref=f2e73]:
+          - button "CASE STUDY / 01 오늘의 기분은? ☺ ☻ ☼ feel better! ✳ UI/UX DESIGN · 예시 프로젝트 감정 기록 서비스 디자인 사용자 흐름을 정리하고 모바일 경험으로 풀어낸 콘셉트 자세히 보기 ↗" [ref=f2e74] [cursor=pointer]:
+            - generic [ref=f2e75]:
+              - generic [ref=f2e76]: CASE STUDY / 01
+              - generic [ref=f2e77]:
+                - text: 오늘의 기분은?
+                - generic [ref=f2e78]: ☺ ☻ ☼
+              - generic [ref=f2e81]: feelbetter! ✳
+            - generic [ref=f2e83]:
+              - generic [ref=f2e84]: UI/UX DESIGN · 예시 프로젝트
+              - strong [ref=f2e85]: 감정 기록 서비스 디자인
+              - generic [ref=f2e86]: 사용자 흐름을 정리하고 모바일 경험으로 풀어낸 콘셉트
+              - generic [ref=f2e87]: 자세히 보기 ↗
+          - button "EXPERIMENT / 02 ✦ prompt → image → idea_ AI EXPERIMENT · 예시 프로젝트 생성형 AI 비주얼 실험 프롬프트를 조정하며 만든 이미지와 발견한 점 자세히 보기 ↗" [ref=f2e88] [cursor=pointer]:
+            - generic [ref=f2e89]:
+              - generic [ref=f2e90]: EXPERIMENT / 02
+              - generic [ref=f2e91]: ✦
+              - generic [ref=f2e92]: prompt → image → idea_
+            - generic [ref=f2e93]:
+              - generic [ref=f2e94]: AI EXPERIMENT · 예시 프로젝트
+              - strong [ref=f2e95]: 생성형 AI 비주얼 실험
+              - generic [ref=f2e96]: 프롬프트를 조정하며 만든 이미지와 발견한 점
+              - generic [ref=f2e97]: 자세히 보기 ↗
+          - button "PROCESS / 03 WHY? ✦ INSIGHT → ACTION 사용자 먼저! UX RESEARCH · 예시 프로젝트 사용자 리서치 노트 관찰한 문제를 질문과 인사이트로 정리한 과정 자세히 보기 ↗" [ref=f2e98] [cursor=pointer]:
+            - generic [ref=f2e99]:
+              - generic [ref=f2e100]: PROCESS / 03
+              - generic [ref=f2e101]: WHY?✦
+              - generic [ref=f2e103]: INSIGHT→ ACTION
+              - generic [ref=f2e105]: 사용자먼저!
+            - generic [ref=f2e107]:
+              - generic [ref=f2e108]: UX RESEARCH · 예시 프로젝트
+              - strong [ref=f2e109]: 사용자 리서치 노트
+              - generic [ref=f2e110]: 관찰한 문제를 질문과 인사이트로 정리한 과정
+              - generic [ref=f2e111]: 자세히 보기 ↗
+      - generic [ref=f2e112]:
+        - generic [ref=f2e113]:
+          - generic [ref=f2e114]:
+            - text: 03 / LEARNING NOTES
+            - heading "학습 기록 ✳" [level=2] [ref=f2e115]
+            - paragraph [ref=f2e116]: 수업에서 얻은 배움과 시행착오를 남깁니다.
+          - generic [ref=f2e117]:
+            - text: ⌕
+            - searchbox "학습 기록 검색" [ref=f2e118]
+        - generic "기록 분류" [ref=f2e119]:
+          - button "전체" [ref=f2e120] [cursor=pointer]
+          - button "UI/UX" [active] [ref=f2e121] [cursor=pointer]
+          - button "AI" [ref=f2e122] [cursor=pointer]
+          - button "과정 기록" [ref=f2e123] [cursor=pointer]
+        - generic [ref=f2e124]:
+          - button "UI/UX / 예시 기록 NOTE 01 좋은 사용자 경험은 어디서 시작될까? 사용자 관찰과 문제 정의를 배우며 정리한 첫 번째 메모. 기록 읽기 ↗" [ref=f2e224] [cursor=pointer]:
+            - generic [ref=f2e225]:
+              - generic [ref=f2e226]: UI/UX / 예시 기록
+              - generic [ref=f2e227]: NOTE 01
+            - heading "좋은 사용자 경험은 어디서 시작될까?" [level=3] [ref=f2e228]
+            - paragraph [ref=f2e229]: 사용자 관찰과 문제 정의를 배우며 정리한 첫 번째 메모.
+            - generic [ref=f2e230]:
+              - text: 기록 읽기
+              - generic [ref=f2e231]: ↗
+          - button "UI/UX / 예시 기록 NOTE 04 버튼 하나에도 이유가 필요하다 인터랙션과 정보 위계를 연습하며 남긴 생각. 기록 읽기 ↗" [ref=f2e232] [cursor=pointer]:
+            - generic [ref=f2e233]:
+              - generic [ref=f2e234]: UI/UX / 예시 기록
+              - generic [ref=f2e235]: NOTE 04
+            - heading "버튼 하나에도 이유가 필요하다" [level=3] [ref=f2e236]
+            - paragraph [ref=f2e237]: 인터랙션과 정보 위계를 연습하며 남긴 생각.
+            - generic [ref=f2e238]:
+              - text: 기록 읽기
+              - generic [ref=f2e239]: ↗
+      - generic [ref=f2e173]:
+        - generic [ref=f2e174]:
+          - generic [ref=f2e175]:
+            - text: 04 / THE ROAD AHEAD
+            - heading "6개월 로드맵 ✳" [level=2] [ref=f2e176]
+            - paragraph [ref=f2e177]: 배움의 흐름을 따라가는 아카이브 지도.
+          - generic [ref=f2e178]: 예시 구성 · 실제 진도는 추후 업데이트
+        - generic [ref=f2e179]:
+          - generic [ref=f2e180]:
+            - generic [ref=f2e181]: "01"
+            - strong [ref=f2e182]: 기초 다지기
+            - generic [ref=f2e183]: 디자인 원칙 · 리서치 기초
+          - generic [ref=f2e184]:
+            - generic [ref=f2e185]: "02"
+            - strong [ref=f2e186]: 사용자 이해
+            - generic [ref=f2e187]: 인터뷰 · 문제 정의
+          - generic [ref=f2e188]:
+            - generic [ref=f2e189]: "03"
+            - strong [ref=f2e190]: 화면 설계
+            - generic [ref=f2e191]: 와이어프레임 · UI
+          - generic [ref=f2e192]:
+            - generic [ref=f2e193]: "04"
+            - strong [ref=f2e194]: AI 탐색
+            - generic [ref=f2e195]: 프롬프트 · 생성 도구
+          - generic [ref=f2e196]:
+            - generic [ref=f2e197]: "05"
+            - strong [ref=f2e198]: 만들고 검증
+            - generic [ref=f2e199]: 프로토타입 · 테스트
+          - generic [ref=f2e200]:
+            - generic [ref=f2e201]: "06"
+            - strong [ref=f2e202]: 정리와 공유
+            - generic [ref=f2e203]: 포트폴리오 · 회고
+      - generic [ref=f2e204]:
+        - generic [ref=f2e205]:
+          - text: TO BE CONTINUED...
+          - heading "좋은 질문에서 좋은 결과가 시작된다." [level=2] [ref=f2e206]: 좋은 질문에서좋은 결과가 시작된다.
+          - paragraph [ref=f2e207]: 이곳은 앞으로 채워질 배움의 공간입니다.매일의 기록이 다음 프로젝트의 시작점이 되기를.
+        - generic [ref=f2e208]:
+          - text: STAYCURIOUS
+          - generic [ref=f2e210]: ✳
+      - generic [ref=f2e211]:
+        - generic [ref=f2e212]: © 2026 JANJAN LEARNING ARCHIVE
+        - link "맨 위로 ↑" [ref=f2e213] [cursor=pointer]:
+          - /url: "#top"
+        - generic [ref=f2e223]: MADE WITH CURIOSITY ✳
